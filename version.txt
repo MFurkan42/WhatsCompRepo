@@ -8,3 +8,6 @@
 -Mesaj Önizlemede çıkan buglar düzeltildi.
 -ProgressBar eklendi.
 -Ekran boyutu düzenlendi.
+
+1.9.6
+-Mesaj Önizlemede çıkan buglar düzeltildi.

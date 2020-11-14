@@ -11,3 +11,8 @@
 
 1.9.6
 -Mesaj Önizlemede çıkan buglar düzeltildi.
+
+1.9.7
+-Mesaj atarken çıkan bazı sorunlar düzeltildi.
+-Mesaj önizlemede resimler gözükmüyordu, düzeltildi.
+-Whatsapp 30 sn video sınırı düzeltildi.

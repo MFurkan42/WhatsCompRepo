@@ -16,3 +16,13 @@
 -Mesaj atarken çıkan bazı sorunlar düzeltildi.
 -Mesaj önizlemede resimler gözükmüyordu, düzeltildi.
 -Whatsapp 30 sn video sınırı düzeltildi.
+
+1.9.8
+-ChromeDriver otomatik güncelleme özelliği eklendi.
+-Başlangıç Ekranı, Animasyon eklendi.
+-Mesaj Kutucuğu ve Dosya Ekleme bölümleri sınırlandırıldı.
+-Başlangıç ekranı için gerekli program uyarısı eklendi.
+-Mesaj Önizleme Video Ekleme Özelliği
+-Mesaj Önizleme Winrar Ekleme Özelliği
+-Mesajınıza Emoji Ekleme Özelliği
+-İconlarda yaşanan sorunlar düzeltildi.

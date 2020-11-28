@@ -18,6 +18,11 @@
 -Whatsapp 30 sn video sınırı düzeltildi.
 
 1.9.8
+-Mesaj atarken çıkan bazı sorunlar düzeltildi.
+-Mesaj önizlemede resimler gözükmüyordu, düzeltildi.
+-Whatsapp 30 sn video sınırı düzeltildi.
+
+1.9.9
 -ChromeDriver otomatik güncelleme özelliği eklendi.
 -Başlangıç Ekranı, Animasyon eklendi.
 -Mesaj Kutucuğu ve Dosya Ekleme bölümleri sınırlandırıldı.
